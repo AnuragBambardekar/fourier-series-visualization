@@ -7,11 +7,11 @@ amplitudes and phase parameters. <br>
 Basically, a series of wave patterns which when summed up together results into another pattern. <br>
 Or, addition of multiple simple harmonic waves. <br>
 
-Square Wave
+Square Wave <br>
 ![Square Wave](/Images/square.gif?raw=true "Square Wave") <br>
-Triangular Wave
+Triangular Wave <br>
 ![Triangle Wave](/Images/triangle.gif?raw=true "Triangle Wave") <br>
-Sawtooth Wave
+Sawtooth Wave <br>
 ![SawTooth Wave](/Images/sawtooth.gif?raw=true "SawTooth Wave") <br>
 
 **Video References:** <br>
